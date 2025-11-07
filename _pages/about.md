@@ -7,13 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Master student at [Fudan University](https://www.fudan.edu.cn/en/), advised by Prof. [Guanhua Fang](https://sites.google.com/view/hyperfang2020). In summer 2025, I was an onsite research intern at UC San Diego, I was fortunate to collaborate with Prof. [Lijun Ding](https://www.lijunding.net/) and Prof. [Biwei Huang](https://biweihuang.com/). Prior to this, I received my bachelor's degree in Mathematics and Applied Mathematics from Fudan University in 2024. 
+I am a second-year Master's student at [Fudan University](https://www.fudan.edu.cn/en/), supervised by Prof. [Guanhua Fang](https://sites.google.com/view/hyperfang2020). I spent Summer 2025 at UC San Diego, where I was fortunate to collaborate with Prof. [Lijun Ding](https://www.lijunding.net/) and Prof. [Biwei Huang](https://biweihuang.com/). Previously, I received my B.S. in Mathematics and Applied Mathematics from Fudan University in 2024. 
 
-Currently, I am actively looking for Ph.D. oppotunities for fall 2026 in the Statistics and Computer Science fields.
+I am actively seeking Ph.D. oppotunities for Fall 2026 in the Statistics and Computer Science.
 
 Research Interests
 ======
-My current research spans machine learning and statistics, with growing interests in LLMs. 
+My current research focuses on the theory of machine learning and optimization, with applications to large-scale temporal data. Looking ahead, I am interested in:
+- Statistical machine learning 
+- LLMs and GUI agents 
+- Optimization theory
 
 
 <!-- For those users that need more advanced functionality, the template also supports the following popular tools:
