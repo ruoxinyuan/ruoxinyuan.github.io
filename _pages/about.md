@@ -14,9 +14,9 @@ I am actively seeking Ph.D. oppotunities for Fall 2026 in the Statistics and Com
 Research Interests
 ======
 My current research focuses on the theory of machine learning and optimization, with applications to large-scale temporal data. Looking ahead, I am interested in
-- Statistical machine learning 
-- LLMs and GUI agents 
-- Optimization theory
+- Statistical machine learning; 
+- LLMs and GUI agents; 
+- Optimization theory.
 
 
 <!-- For those users that need more advanced functionality, the template also supports the following popular tools:
