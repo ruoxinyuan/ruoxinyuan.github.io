@@ -33,6 +33,15 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    {% if post.authors %}
+      <p class="archive__item-authors" itemprop="author">
+        {% for a in post.authors %}
+          {% if forloop.first == false %}, {% endif %}
+          <span class="author">{{ a | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+        {% endfor %}
+      </p>
+    {% endif %}    
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
