@@ -1,9 +1,8 @@
 ---
-title: "Residual TPP: A Unified Lightweight Approach for Event Stream Data Analysis"
+title: "[Residual TPP: A Unified Lightweight Approach for Event Stream Data Analysis](https://proceedings.mlr.press/v267/yuan25a.html)"
 collection: publications
 category: publications
 # permalink: /publication/2025-ICML-Residual-TPP
-permalink: 'https://proceedings.mlr.press/v267/yuan25a.html'
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025-10-14
 venue: 'Forty-second International Conference on Machine Learning (ICML)'
