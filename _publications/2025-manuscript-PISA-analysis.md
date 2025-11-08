@@ -8,7 +8,7 @@ authors:
   - "**Ruoxin Yuan**"
   - "Guanhua Fang"
 excerpt: 'We develop a comprehensive framework for analyzing computer-based problem-solving assessments that predicts students progression toward correct answers in real-time and summarizes it into **probability trajectories**. The resulting curves are **robust, model-agnostic statistics** that enable multiple downstream applications.'
-# date: 2025-10-15
+date: 2024-12-15
 # venue: 'GitHub Journal of Bugs'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'

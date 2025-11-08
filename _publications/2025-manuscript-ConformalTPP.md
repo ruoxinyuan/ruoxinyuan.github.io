@@ -10,7 +10,7 @@ authors:
   - "Guanhua Fang"
   - "Wen Yu"
 excerpt: 'We propose a **conformal prediction framework** tailored to temporal point processes, resolving challenges posed by their continuous-time nature, temporal dependence, and violation of exchangeability assumptions. We establish rigorous **coverage guarantees** under mild assumptions of periodic stationarity and $$\beta$$-mixing, and extend the theoretical results to Hawkes processes and non-periodic stationary processes.'
-# date: 2025-10-15
+date: 2025-03-15
 # venue: 'GitHub Journal of Bugs'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
