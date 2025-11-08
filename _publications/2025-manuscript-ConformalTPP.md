@@ -1,18 +1,15 @@
 ---
-title: "Auto-scaling Continuous Memory for GUI Agents"
+title: "Conformal Prediction for Event Stream Data"
 collection: publications
 category: manuscripts
 # permalink: /publication/2024-02-17-paper-title-number-4
-link: 'https://arxiv.org/pdf/2510.09038'
+# link: 'https://arxiv.org/pdf/2510.09038'
 authors:
-  - "Wenyi Wu"
-  - "Kun Zhou"
+  - "Zhiheng Chen"
   - "**Ruoxin Yuan**"
-  - "Vivian Yu"
-  - "Stephen Wang"
-  - "Zhiting Hu"
-  - "Biwei Huang"
-excerpt: 'We introduce a **continuous memory** framework for GUI agents, along with an **auto-scaling data flywheel** that autonomously discovers environments, generates tasks, collects trajectories, and performs quality evaluation. Our method achieves state-of-the-art results across multiple real-world GUI benchmarks.'
+  - "Guanhua Fang"
+  - "Wen Yu"
+excerpt: 'We propose a **conformal prediction framework** tailored to temporal point processes, resolving challenges posed by their continuous-time nature, temporal dependence, and violation of exchangeability assumptions. We establish rigorous **coverage guarantees** under mild assumptions of periodic stationarity and $$\beta$$-mixing, and extend the theoretical results to Hawkes processes and non-periodic stationary processes.'
 # date: 2025-10-15
 # venue: 'GitHub Journal of Bugs'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'

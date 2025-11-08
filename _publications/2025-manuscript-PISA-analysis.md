@@ -1,18 +1,13 @@
 ---
-title: "Auto-scaling Continuous Memory for GUI Agents"
+title: "An Implementation-Friendly Model-Agnostic Approach for Process Data Analysis"
 collection: publications
 category: manuscripts
 # permalink: /publication/2024-02-17-paper-title-number-4
-link: 'https://arxiv.org/pdf/2510.09038'
+# link: 'https://arxiv.org/pdf/2510.09038'
 authors:
-  - "Wenyi Wu"
-  - "Kun Zhou"
   - "**Ruoxin Yuan**"
-  - "Vivian Yu"
-  - "Stephen Wang"
-  - "Zhiting Hu"
-  - "Biwei Huang"
-excerpt: 'We introduce a **continuous memory** framework for GUI agents, along with an **auto-scaling data flywheel** that autonomously discovers environments, generates tasks, collects trajectories, and performs quality evaluation. Our method achieves state-of-the-art results across multiple real-world GUI benchmarks.'
+  - "Guanhua Fang"
+excerpt: 'We develop a comprehensive framework for analyzing computer-based problem-solving assessments that predicts students progression toward correct answers in real-time and summarizes it into **probability trajectories**. The resulting curves are **robust, model-agnostic statistics** that enable multiple downstream applications.'
 # date: 2025-10-15
 # venue: 'GitHub Journal of Bugs'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
