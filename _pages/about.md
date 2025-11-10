@@ -15,8 +15,9 @@ Research Interests
 ======
 My current research focuses on the theory of machine learning and optimization, with applications to large-scale temporal data. Looking ahead, I am interested in
 - Statistical machine learning; 
-- LLMs and GUI agents; 
-- Optimization theory.
+- LLMs and GUI agents;
+- Deep learning theory; 
+- Optimization.
 
 
 <!-- For those users that need more advanced functionality, the template also supports the following popular tools:
