@@ -1,5 +1,5 @@
 ---
-title: "Sparse Regression with $\ell_0$ Constraints for $\alpha$-Mixing Time Series: Algorithms and Guarantees"
+title: "Sparse Regression with $\\ell_0$ Constraints for $\\alpha$-Mixing Time Series: Algorithms and Guarantees"
 collection: publications
 category: manuscripts
 # permalink: /publication/2024-02-17-paper-title-number-4
