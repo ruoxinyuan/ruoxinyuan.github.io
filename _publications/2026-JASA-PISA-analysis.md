@@ -1,14 +1,14 @@
 ---
 title: "An Implementation-Friendly Model-Agnostic Approach for Process Data Analysis"
 collection: publications
-category: manuscripts
+category: publications
 # permalink: /publication/2024-02-17-paper-title-number-4
-# link: 'https://arxiv.org/pdf/2510.09038'
+link: 'https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2658867'
 authors:
   - "**Ruoxin Yuan**"
   - "Guanhua Fang"
 excerpt: 'We develop a comprehensive framework for analyzing computer-based problem-solving assessments that predicts students progression toward correct answers in real-time and summarizes it into **probability trajectories**. The resulting curves are **robust, model-agnostic statistics** that enable multiple downstream applications.'
-date: 2024-12-15
+date: 2026-5-1
 # venue: 'GitHub Journal of Bugs'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
