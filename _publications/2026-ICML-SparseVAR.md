@@ -9,7 +9,7 @@ authors:
   - "Lijun Ding"
 excerpt: 'We study exact sparse time-series modeling via $\ell_0$-constrained least squares under temporal dependence. For **stationary $\alpha$-mixing Gaussian processes** with sparse coefficients, we establish high-probability RSC/RSS for the empirical quadratic loss and obtain **nonasymptotic statistical guarantees** for exact sparse algorithms such as iterative hard thresholding (IHT). '
 date: 2026-07-10
-# venue: 'GitHub Journal of Bugs'
+venue: 'Forty-third International Conference on Machine Learning (ICML)'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---

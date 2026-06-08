@@ -9,7 +9,7 @@ authors:
   - "Guanhua Fang"
 excerpt: 'We develop a comprehensive framework for analyzing computer-based problem-solving assessments that predicts students progression toward correct answers in real-time and summarizes it into **probability trajectories**. The resulting curves are **robust, model-agnostic statistics** that enable multiple downstream applications.'
 date: 2026-5-1
-# venue: 'GitHub Journal of Bugs'
+venue: 'Journal of the American Statistical Association'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
